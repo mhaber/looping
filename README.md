@@ -4,7 +4,7 @@ Part of our data science work at Looping consists of gaining a better understand
 
 **The Data**
 
-[mb.csv](https://github.com/mhaber/looping/mb.csv) contains 39k tweets containing hashtags referring to Mercedes-Benz and published between January 14 and May 27 2019. The data have not been cleaned but are relatively well-structured. Your key variables will probably be "username", "tweet" and "hashtags".
+[mb.csv](https://raw.githubusercontent.com/mhaber/looping/master/mb.csv) contains 39k tweets containing hashtags referring to Mercedes-Benz and published between January 14 and May 27 2019. The data have not been cleaned but are relatively well-structured. Your key variables will probably be "username", "tweet" and "hashtags".
 
 **The Task**
 
